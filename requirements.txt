@@ -1,0 +1,7 @@
+requests>=2.31.0
+PyYAML>=6.0.1
+beautifulsoup4>=4.12.0
+tqdm>=4.66.0
+# optional, only for --playwright:
+#   pip install playwright
+#   playwright install chromium

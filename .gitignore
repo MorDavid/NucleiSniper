@@ -1,0 +1,9 @@
+/nuclei-runs
+__pycache__/
+/relevance.json
+*.sqlite
+.pytest_cache/
+.claude/
+*.html
+urls.txt
+trash/
